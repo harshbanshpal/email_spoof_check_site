@@ -27,5 +27,5 @@ A Flask web application to check if a domain is vulnerable to email spoofing by 
 ## Running the Application
 
 ```bash
-   python app.py
-   http://127.0.0.1:5000/
+python app.py
+http://127.0.0.1:5000/
