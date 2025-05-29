@@ -13,7 +13,7 @@ A Flask web application to check if a domain is vulnerable to email spoofing by 
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/harshbanshpal/email_spoof_check_site
